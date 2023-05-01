@@ -19,7 +19,6 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-collections:
   - name: "home" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     folder: "src/components/Home" # The path to the folder where the documents are stored
